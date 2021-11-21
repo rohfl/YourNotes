@@ -20,7 +20,7 @@
         <item name="android:windowExitAnimation">@anim/slide_down</item>
     </style>
 
-    <style name="ScrollTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="ScrollTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <item name="colorPrimary">#AAAAAA</item>
     </style>
 </resources>

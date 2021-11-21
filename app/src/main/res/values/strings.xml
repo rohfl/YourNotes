@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">YourNotesOffline</string>
+    <string name="app_name">YourNotes</string>
+    <string name="search_a_note">Search a note.</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
 </resources>
